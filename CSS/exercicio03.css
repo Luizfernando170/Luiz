@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-family: "osvaldo";
+    text-shadow: 3px 3px 3px black;
+
+}
+p{
+    color: antiquewhite;
+    text-align: justify;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 20px;
+}
+h2{
+    font-family: "osvaldo", system-ui;
+    text-shadow: 3px 3px 3px black;
+}

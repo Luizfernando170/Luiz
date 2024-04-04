@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+h1{
+    background-color: darkslateblue;
+    font-family: "Roboto condesed", sistem-ui;
+}
+p{
+    color: rgb(180, 150, 90);
+    text-align: justify;
+    font-size: 25px;
+}
