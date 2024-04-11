@@ -1,0 +1,9 @@
+body{
+    background-image: url(../HTML/imagem\ da\ lua.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+section{
+    height: 100vh;
+}

@@ -1,0 +1,13 @@
+h1{
+    border-top: 5px solid yellowgreen;
+    border-right: 5px solid yellowgreen ;
+    border-bottom: 5px solid yellowgreen;
+    border-left: 5px solid yellowgreen;
+}
+ 
+h2{
+    border-top: 5px solid rgb(50, 117, 205);
+    border-right: 5px solid rgb(50, 117, 205);
+    border-bottom: 5px solid rgb(50, 117, 205);
+    border-left: 5px solid rgb(50, 117, 205);
+}

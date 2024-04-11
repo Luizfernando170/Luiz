@@ -1,0 +1,12 @@
+ body{
+    background-image: url(imagem\ para\ a\ página\ web01.jpg);
+}
+a{
+    color: aliceblue;
+}
+ul{
+    color: rgb(13, 231, 231);
+}
+.classfundo-da-pagina{
+    background-image: url('imagem\ para\ a\ página\ web01.jpg');
+}

@@ -1,0 +1,13 @@
+body{
+    background-image: url(../HTML/pexels-pixabay-2150.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    color: whitesmoke;
+}
+section{
+    height: 100vh;
+}
+p{
+    justify-self: unset;
+}
