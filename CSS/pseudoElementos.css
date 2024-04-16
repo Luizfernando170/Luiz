@@ -1,0 +1,11 @@
+p::after{
+    content: "Feijoada"
+}
+p::before{
+    content: "Farofa"
+}
+p::first-letter{
+    color: cadetblue;
+    font-size: 1.6em;
+    font-family: Arial, Helvetica, sans-serif;
+}

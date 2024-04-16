@@ -1,0 +1,22 @@
+* {
+    margin: 100px;
+    color:antiquewhite
+}
+.quadrado {
+    background-color: rgba(255, 0, 234, 0.281);
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+}
+.quadrado2 {
+    background-color: rgb(238, 241, 19);
+    width: 100vh;
+    height: 300px;
+    border: 1px solid gray;
+}
+.quadrado3 {
+    background-color: rgb(25, 63, 99);
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+}
