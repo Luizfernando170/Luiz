@@ -1,0 +1,24 @@
+a{
+    color:antiquewhite;
+    text-align: center;
+}
+body{
+    background-image: url(imagem\ para\ a\ página\ web01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(185, 215, 241);
+}
+p{
+    background-color: rgb(185, 215, 241);
+    border: solid 5px;
+    text-align: justify;
+    box-sizing: 10%;
+}
+h1{
+    color: black;
+    background-color:rgb(150, 124, 124);
+    border: solid;
+}
+nav{
+    text-align: center;
+}

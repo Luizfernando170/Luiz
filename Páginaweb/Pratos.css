@@ -1,0 +1,24 @@
+ul{
+    color: rgb(95, 49, 49);
+    border: 5px solid black;
+    background-color: rgb(185, 215, 241);
+    text-align: justify;
+}
+body{
+    background-image: url(imagem\ para\ a\ página\ web01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: justify;
+}
+h2{
+    color: black;
+    background-color:rgb(150, 124, 124);
+    border: solid;
+}
+a{
+    text-align: center;
+    color: antiquewhite;
+}
+nav{
+    text-align: center;
+}

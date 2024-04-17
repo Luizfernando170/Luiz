@@ -9,6 +9,10 @@ section{
     height: 100vh;
 }
 p{
+<<<<<<< HEAD
     text-align: justify;
     line-height: 100%;
+=======
+    justify-self: unset;
+>>>>>>> e242f6d6635b818810a778dbeb692277af9aa51b
 }

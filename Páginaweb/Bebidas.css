@@ -1,0 +1,27 @@
+body{
+    background-image: url(imagem\ para\ a\ página\ web01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ol{
+    color: blueviolet;
+    color: rgb(220, 122, 122);
+    border: 5px solid black;
+    background-color: rgb(185, 215, 241);
+}
+p{
+    color:aliceblue;
+    text-align: auto;
+}
+a{
+    text-align: center;
+    color: antiquewhite;
+}
+nav{
+    text-align: center;
+    color:antiquewhite;
+}
+h1{
+    text-align: center;
+    color: antiquewhite;
+}
