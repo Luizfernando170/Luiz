@@ -1,0 +1,37 @@
+.container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-template-areas: 
+    "box1 box1 box1 box1 box1 box1"
+    "box2 box2 box3 box3 box3 box3"
+    "box4 box4 box4 box4 box4 box5"
+    "box6 box6 box6 box6 box6 box6"
+    ;
+    gap: 4px;
+}
+.box1{
+    grid-area: box1;
+    background-color: mediumvioletred;
+}
+.box2{
+    grid-area: box2;
+    background-color: rgb(125, 224, 192);
+}
+.box3{
+    grid-area: box3;
+    background-color: sienna;
+}
+.box4{
+    grid-area: box4;
+    background-color: blueviolet;
+}
+.box5{
+    grid-area: box5;
+    background-color: green;
+}
+.box6{
+    grid-area: box6;
+    background-color: orange;
+}

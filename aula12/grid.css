@@ -1,0 +1,8 @@
+.container{
+    background-color: firebrick;
+    height: 50vh;
+    display: grid;
+    font-size: 2rem;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+}
